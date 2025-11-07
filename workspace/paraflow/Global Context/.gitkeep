@@ -1,6 +1,10 @@
 {
   "orderIndex": "gA==",
   "title": "Global Context",
+  "relativeTransform": {
+    "x": 0,
+    "y": 0
+  },
   "sectionMetadata": {
     "width": 1680.0,
     "height": 1260.0,
