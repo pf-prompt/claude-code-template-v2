@@ -1,2 +1,3 @@
-workspace/paraflow/product-index.json
+paraflow/product-index.json
 node_modules
+logs
