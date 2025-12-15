@@ -10,7 +10,7 @@ const operation$ = state<'+' | '-' | '*' | '/' | null>(null)
 const waitingForNewValue$ = state(false)
 
 const currentDisplay$ = computed((get) => {
-  return get(calculatorPageState.display$)
+  return get(display$)
 })
 
 export const calculatorPageState = {
