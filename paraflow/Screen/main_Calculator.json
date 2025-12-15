@@ -1,0 +1,16 @@
+{
+    "screenMetadata": {
+        "width": 1440
+    },
+    "title": "计算器",
+    "reactApp": "main",
+    "frameType": 0,
+    "deviceType": 0,
+    "reactState": {
+        "stateTreeRoot": {
+            "sharedLocationState": {
+                "pathname$": "/"
+            }
+        }
+    }
+}
