@@ -1,0 +1,2 @@
+
+export { sharedLocationState } from './sharedLocationState'
